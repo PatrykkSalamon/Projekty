@@ -1,0 +1,5 @@
+<resources>
+    <color name="primary">#4CAF50</color> <!-- zielony jak coś -->
+    <color name="primaryDark">#388E3C</color>
+    <color name="white">#FFFFFF</color>
+</resources>
